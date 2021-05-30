@@ -114,7 +114,6 @@
 				5B47FC73A73289D6263566EF /* Pods-Animations-AnimationsTests.debug.xcconfig */,
 				72B057EF1A91A940C7A84AC9 /* Pods-Animations-AnimationsTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
